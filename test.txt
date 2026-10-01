@@ -1,1 +1,11 @@
 Mon premier fichier avec Git
+
+Git et GitHub
+Linux
+Python
+Java
+JavaScript 
+HTML
+CSS
+Développement informatique 
+
